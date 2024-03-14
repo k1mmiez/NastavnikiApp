@@ -1,0 +1,100 @@
+header {
+    background-color: #B9EEDE;
+    height: 150px;
+    width: auto;
+}
+
+.container {
+    margin: 0 30px;
+    align-items: center;
+}
+
+.navigation {
+    height: fit-content;
+    width: fit-content;
+    margin-right: 30px;
+    text-align: center;
+}
+
+.navigation_item {
+    color: #567C86;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 506;
+    font-style: normal;
+    font-size: 28px;
+    margin-right: 40px;
+}
+
+.navigation_item:hover {
+    color: white;
+}
+
+.navigation_item_enter {
+    background-color: #567C86;
+    color: white;
+    text-decoration: none;
+    padding: 10px 23px;
+    border-radius: 15px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 506;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.navigation_item_enter:hover {
+    background-color: white;
+    color: #567C86;
+}
+
+.authentication {
+    display: flex;
+}
+
+.header_line {
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icon_div {
+    height: fit-content;
+    width: fit-content;
+    margin-right: 30px;
+}
+
+.icon {
+    height: 90px;
+    width: 312px;
+}
+
+@media screen and (max-width: 425px) {
+    /*for mobeiles*/
+}
+
+@media screen and (max-width: 768px) {
+    /*for pads*/
+}
+
+@media screen and (max-width: 1024px) {
+    /*for laptops*/
+
+    
+}
+
+@media screen and (max-width: 1440px) {
+    /*for L laptops*/
+
+    .icon {
+        content: url("images/small_icon.png");
+        height: 90px;
+        width: 99px;
+    }
+}
+
+@media screen and (max-width: 2560px) {
+    /*for big screens*/
+}

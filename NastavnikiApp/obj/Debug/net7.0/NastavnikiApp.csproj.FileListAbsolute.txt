@@ -823,3 +823,5 @@ C:\Users\bakha\RiderProjects\NastavnikiApp\NastavnikiApp\obj\Debug\net7.0\Nastav
 C:\Users\bakha\RiderProjects\NastavnikiApp\NastavnikiApp\obj\Debug\net7.0\refint\NastavnikiApp.dll
 C:\Users\bakha\RiderProjects\NastavnikiApp\NastavnikiApp\obj\Debug\net7.0\NastavnikiApp.pdb
 C:\Users\bakha\RiderProjects\NastavnikiApp\NastavnikiApp\obj\Debug\net7.0\ref\NastavnikiApp.dll
+C:\Users\bakha\RiderProjects\NastavnikiApp\NastavnikiApp\obj\Debug\net7.0\scopedcss\Pages\MainPage.razor.rz.scp.css
+C:\Users\bakha\RiderProjects\NastavnikiApp\NastavnikiApp\obj\Debug\net7.0\scopedcss\projectbundle\NastavnikiApp.bundle.scp.css

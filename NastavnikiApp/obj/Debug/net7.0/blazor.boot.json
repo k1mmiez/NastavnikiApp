@@ -198,13 +198,13 @@
       "mscorlib.dll": "sha256-gEh2pbf9QBKUbbQNDp178pkm5vz7xXFGhpFgUcAhyTE=",
       "netstandard.dll": "sha256-IEYNogoWZgSKXlx0+Pn2bt3irEZ1nuCnjK9Bm+3OWYw=",
       "System.Private.CoreLib.dll": "sha256-XrgDwG5fUErLSziY3dAwA0PYLIirTlornT8Lb6U2DUs=",
-      "NastavnikiApp.dll": "sha256-C+mal3Jq1yV+I\/9J5N3TgtAIfKhc5MfwiWxVtAuYWLA="
+      "NastavnikiApp.dll": "sha256-h28dAkyqrgg6u7ImpeoUTOqjwO151EOoS+GOwkG7nCw="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "NastavnikiApp.pdb": "sha256-yPBnNxeeqHIFEVKeJgPTmB2wr2Wn8HXVhzW8paI1Cn4="
+      "NastavnikiApp.pdb": "sha256-mVEqLK2INL1HLPSZpq6qpvMOcpd5ppKqEXVihUjIt9Y="
     },
     "runtime": {
       "dotnet.7.0.7.d6ly7i5yxa.js": "sha256-JmMF+3r0RjsO0yYBfDP8Pq2ahxBSJHFu7mZNB9lqLsw=",

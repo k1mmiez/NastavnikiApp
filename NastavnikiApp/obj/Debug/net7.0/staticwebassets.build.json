@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NmuRaq4WRD1iunWrvetjA1ijRX/5pFIsi755Yjwx1kQ=",
+  "Hash": "3HuJQlVo0XkkBVtkqA7VNQyKhRNqFOJZwdA8ItnXmn4=",
   "Source": "NastavnikiApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -6868,6 +6868,40 @@
       "OriginalItemSpec": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Reflection.Extensions.dll"
     },
     {
+      "Identity": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\NastavnikiApp.styles.css",
+      "SourceId": "NastavnikiApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "/",
+      "RelativePath": "NastavnikiApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\NastavnikiApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NastavnikiApp.bundle.scp.css",
+      "SourceId": "NastavnikiApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "/",
+      "RelativePath": "NastavnikiApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NastavnikiApp.bundle.scp.css"
+    },
+    {
       "Identity": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\css\\app.css",
       "SourceId": "NastavnikiApp",
       "SourceType": "Discovered",
@@ -6885,23 +6919,6 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\css\\main.css",
-      "SourceId": "NastavnikiApp",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/main.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\main.css"
-    },
-    {
       "Identity": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\images\\icon.png",
       "SourceId": "NastavnikiApp",
       "SourceType": "Discovered",
@@ -6917,6 +6934,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\images\\small_icon.png",
+      "SourceId": "NastavnikiApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/small_icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\small_icon.png"
     },
     {
       "Identity": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\index.html",
