@@ -1,7 +1,7 @@
 @inherits LayoutComponentBase
 <PageTitle>Наставники</PageTitle>
 <header>
-    <div class="container">
+    <div class="header_container">
         <div class="header_line">
             <div class="icon_div">
                 <a href="#">
@@ -13,15 +13,45 @@
                 <a class="navigation_item" href="#">События</a>
                 <a class="navigation_item" href="#">Интервью</a>
                 <a class="navigation_item" href="#">Чаты</a>
-                <a class="navigation_item" href="#">Помощь</a>
             </div>
             <div class="authentication">
-                <a class="navigation_item" href="#">Регистрация</a>
+                <a class="navigation_item_registration" href="#">Регистрация</a>
                 <a class="navigation_item_enter" href="#">Вход</a>
             </div>
+            <a class="menu_button" @onclick="ToggleDropdown">Меню</a>
         </div>
     </div>
+    @if (showDropdown)
+    {
+        <div class="extra_navigation">
+            <a class="navigation_item" href="#" @onclick="ToggleDropdown" >О портале</a>
+            <a class="navigation_item" href="#" @onclick="ToggleDropdown" >События</a>
+            <a class="navigation_item" href="#" @onclick="ToggleDropdown" >Интервью</a>
+            <a class="navigation_item" href="#" @onclick="ToggleDropdown" >Чаты</a>
+            <a class="navigation_item" href="#" @onclick="ToggleDropdown" >Регистрация</a>
+            <a class="navigation_item" href="#" @onclick="ToggleDropdown" >Вход</a>
+        </div>
+    }
+    
 </header>
 <body>
     @Body
 </body>
+<footer>
+    <div class="footer_container">
+        <div class="footer_line">
+            <div class="icon_div">
+                
+            </div>
+        </div>
+    </div>
+</footer>
+
+@code {
+    private bool showDropdown;
+
+    private void ToggleDropdown()
+    {
+        showDropdown = !showDropdown;
+    }
+}

@@ -7,6 +7,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "BlazorBootstrap.dll": "sha256-DTcHc\/xYDRB0YNCdPpEomKOW3FI6wuKTh7fQTh0ePu4=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-3H1\/2dJ6LCSFrDwMxcIF9c89g7e2WDms+gUxX9yXsCE=",
       "Microsoft.AspNetCore.Components.dll": "sha256-T7VsejmD8iW5KFy8++BoXVdY1Mc4VSTAdBlkPiyQmKg=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-t\/7w6In5F1noaAg32epZHTmof5Qv+lCIKNaCVqoB79E=",
@@ -198,13 +199,13 @@
       "mscorlib.dll": "sha256-gEh2pbf9QBKUbbQNDp178pkm5vz7xXFGhpFgUcAhyTE=",
       "netstandard.dll": "sha256-IEYNogoWZgSKXlx0+Pn2bt3irEZ1nuCnjK9Bm+3OWYw=",
       "System.Private.CoreLib.dll": "sha256-XrgDwG5fUErLSziY3dAwA0PYLIirTlornT8Lb6U2DUs=",
-      "NastavnikiApp.dll": "sha256-h28dAkyqrgg6u7ImpeoUTOqjwO151EOoS+GOwkG7nCw="
+      "NastavnikiApp.dll": "sha256-la7Vi7ZWAA\/nngywRQRoJm0iizJRuAvMuI\/gaJamUVo="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "NastavnikiApp.pdb": "sha256-mVEqLK2INL1HLPSZpq6qpvMOcpd5ppKqEXVihUjIt9Y="
+      "NastavnikiApp.pdb": "sha256-\/bcTuuNuXUL0B3oNxmjP6d4lfvGxGIWsqwB\/3jxU0\/M="
     },
     "runtime": {
       "dotnet.7.0.7.d6ly7i5yxa.js": "sha256-JmMF+3r0RjsO0yYBfDP8Pq2ahxBSJHFu7mZNB9lqLsw=",
