@@ -1,4 +1,5 @@
 @inherits LayoutComponentBase
+
 <PageTitle>Наставники</PageTitle>
 <header>
     <div class="header_container">
@@ -32,16 +33,51 @@
             <a class="navigation_item" href="#" @onclick="ToggleDropdown" >Вход</a>
         </div>
     }
-    
 </header>
 <body>
     @Body
 </body>
 <footer>
     <div class="footer_container">
-        <div class="footer_line">
-            <div class="icon_div">
-                
+        <div class="footer_line" style="flex-wrap: wrap; gap: 30px">
+            <div class="footer_address">
+                <div class="icon_div">
+                    <img src="images/icon.png" style="width: 312px; height: 90px" alt="Icon"/>
+                </div>
+                <div class="address_div">
+                    <text>
+                        191023, г. Санкт-Петербург, улица Ломоносова, д. 11/13<br/>
+                        Напишите нам: nastavnik@spb.ru<br/>
+                        Позвоните нам: +7 (931) 250-95-64
+                    </text>
+                </div>
+            </div>
+            <div class="footer_links">
+                <div class="footer_links_column" style="padding-right: 60px">
+                    <a href="#">О портале</a>
+                    <a href="#">События</a>
+                    <a href="#">Интервью</a>
+                    <a href="#">Чаты</a>
+                </div>
+                <div class="footer_links_column" style="padding-right: 30px" >
+                    <a href="#">Соглашение</a>
+                    <a href="#">Помощь</a>
+                    <a href="#">Регистрация</a>
+                    <a href="#">Вход</a>
+                </div>
+            </div>
+            <div class="footer_email_subscribe">
+                <text>Подпишитесь на рассылку</text>
+                <div class="subscription_field">
+                    <input class="email_input" placeholder="Email" />
+                    <button class="subscribe_button">Подписаться</button>
+                </div>
+                <div class="social_networks">
+                    <a href="#"><img class="social_networks_icon" src="images/telegram.png" alt="Icon" /></a>
+                    <a href="#"><img class="social_networks_icon" src="images/vk.jpg" alt="Icon" /></a>
+                    <a href="#"><img class="social_networks_icon" src="images/rutube.jpg" alt="Icon" /></a>
+                    <a href="#"><img class="social_networks_icon" src="images/odnoklassniki.png" alt="Icon" /></a>
+                </div>
             </div>
         </div>
     </div>

@@ -21,8 +21,24 @@
       "PackagePath": "staticwebassets\\images\\icon.png"
     },
     {
+      "Id": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\images\\odnoklassniki.png",
+      "PackagePath": "staticwebassets\\images\\odnoklassniki.png"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\images\\rutube.jpg",
+      "PackagePath": "staticwebassets\\images\\rutube.jpg"
+    },
+    {
       "Id": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\images\\small_icon.png",
       "PackagePath": "staticwebassets\\images\\small_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\images\\telegram.png",
+      "PackagePath": "staticwebassets\\images\\telegram.png"
+    },
+    {
+      "Id": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\images\\vk.jpg",
+      "PackagePath": "staticwebassets\\images\\vk.jpg"
     },
     {
       "Id": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\wwwroot\\index.html",

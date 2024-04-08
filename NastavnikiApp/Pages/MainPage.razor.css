@@ -1,10 +1,10 @@
-header {
+header, footer {
     background-color: #B9EEDE;
     height: fit-content;
     width: auto;
 }
 
-.header_container {
+.header_container, .footer_container {
     margin: 0 30px;
 }
 
@@ -67,7 +67,7 @@ header {
     display: flex;
 }
 
-.header_line {
+.header_line, .footer_line {
     padding: 30px 0;
     display: flex;
     align-items: center;
@@ -110,6 +110,117 @@ header {
     background-color: white;
     color: #567C86;
     cursor: pointer;
+}
+
+.address_div {
+    padding-top: 10px;
+    color: #567C86;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 506;
+    font-style: normal;
+}
+
+.address_div a {
+    color: #567C86;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 506;
+    font-style: normal;
+}
+
+.address_div a:hover {
+    color: white;
+}
+
+.footer_links {
+    display: flex;
+}
+
+.footer_links_column {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer_links_column a {
+    color: #567C86;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 506;
+    font-style: normal;
+    font-size: 20px;
+    white-space: nowrap;
+}
+
+.footer_links_column a:hover {
+    color: white;
+}
+
+.footer_email_subscribe {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+
+.footer_email_subscribe text {
+    color: #567C86;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 506;
+    font-style: normal;
+    font-size: 20px;
+    white-space: nowrap;
+    padding-bottom: 10px;
+}
+
+.subscription_field {
+    display: flex;
+    white-space: nowrap;
+}
+
+.email_input {
+    border-radius: 10px;
+    margin-right: 20px;
+    border: none;
+    background-color: #86CBB9;
+    width: 250px;
+    text-indent: 5px;
+}
+
+.email_input:focus {
+    outline: none;
+}
+
+.subscribe_button {
+    border-radius: 10px;
+    background-color: #567C86;
+    color: white;
+    border: none;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 506;
+    font-style: normal;
+    font-size: 12px;
+    padding: 7px 10px;
+}
+
+.subscribe_button:hover {
+    color: #567C86;
+    background-color: white;
+}
+
+.social_networks {
+    padding-top: 10px;
+}
+
+.social_networks_icon {
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+    border-radius: 5px;
 }
 
 @media screen and (max-width: 530px) {
