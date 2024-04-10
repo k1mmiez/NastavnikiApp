@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ug9Mx1t7EtWDzTPojWGlavmm1PvS5XCo64N79/LpmNPZkqqADKJZq39az8RwFKVMZNy3qu860NDNn3jHFjYU1w==",
+  "dgSpecHash": "6309dJcnH2v0+q0xT/4cmfG7kUHfVCCxabkBoetLn3uetU3hDk/Ch3l+8DqrSiO8UASlFU7F+z+l5EZH95Q1pA==",
   "success": true,
   "projectFilePath": "C:\\Users\\bakha\\RiderProjects\\NastavnikiApp\\NastavnikiApp\\NastavnikiApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bakha\\.nuget\\packages\\blazor.bootstrap\\2.1.0\\blazor.bootstrap.2.1.0.nupkg.sha512",
+    "C:\\Users\\bakha\\.nuget\\packages\\blazorcomponentutilities\\1.7.1\\blazorcomponentutilities.1.7.1.nupkg.sha512",
+    "C:\\Users\\bakha\\.nuget\\packages\\blazorstrap\\5.0.0\\blazorstrap.5.0.0.nupkg.sha512",
     "C:\\Users\\bakha\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.7\\microsoft.aspnetcore.authorization.7.0.7.nupkg.sha512",
     "C:\\Users\\bakha\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.7\\microsoft.aspnetcore.components.7.0.7.nupkg.sha512",
     "C:\\Users\\bakha\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.7\\microsoft.aspnetcore.components.analyzers.7.0.7.nupkg.sha512",

@@ -45,9 +45,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Blazor.Bootstrap": {
+            "BlazorStrap": {
               "target": "Package",
-              "version": "[2.1.0, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",

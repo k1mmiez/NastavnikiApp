@@ -1,5 +1,18 @@
-@import '_content/Blazor.Bootstrap/Blazor.Bootstrap.bundle.scp.css';
+@import '_content/BlazorStrap/BlazorStrap.bundle.scp.css';
 
+/* /Pages/AboutPage.razor.rz.scp.css */
+.slider[b-h27hyts6ev] {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+}
+
+.slider-image[b-h27hyts6ev] {
+    scroll-snap-align: start;
+    flex: 0 0 auto;
+    width: 100%;
+    height: auto;
+}
 /* /Pages/MainPage.razor.rz.scp.css */
 header[b-vtpqscnzqz], footer[b-vtpqscnzqz] {
     background-color: #B9EEDE;
